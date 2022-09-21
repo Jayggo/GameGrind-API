@@ -1,0 +1,10 @@
+flask
+black
+flask_restx
+flask_sqlalchemy
+python-dotenv
+psycopg2
+bcrypt
+Flask-Migrate
+flask-jwt-extended
+werkzeug==2.1.2
