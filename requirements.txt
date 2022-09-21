@@ -8,3 +8,4 @@ bcrypt
 Flask-Migrate
 flask-jwt-extended
 werkzeug==2.1.2
+pytest

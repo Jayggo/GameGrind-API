@@ -13,7 +13,7 @@ authorizations = {
     }
 }
 
-api = Api(bp_api, title='Base blueprint for a new API RESTful', doc='/swagger', authorizations=authorizations)
+api = Api(bp_api, title='GameGrind API', doc='/swagger', authorizations=authorizations)
 
 for ns in namespaces:
     api.add_namespace(ns)
