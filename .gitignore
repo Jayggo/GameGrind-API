@@ -105,7 +105,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-gamegrind-venv
+get-pip.py
+venv-gg
 .venv
 env/
 venv/
